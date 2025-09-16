@@ -85,7 +85,7 @@ else
     medio = num3;
 }
 
-cout << mayor << ", " << medio << ", " << menor;
+cout << mayor << ", " << medio << ", " << menor << endl;
 
 
 
